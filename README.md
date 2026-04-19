@@ -1,6 +1,6 @@
 # 📊 Dashboard Performance Comercial — Vendas de Livros
 
-Dashboard desenvolvido em **Power BI** com foco em performance comercial de uma livraria,
+Dashboard desenvolvido em **Power BI** com foco em performance comercial de uma rede de livraria,
 permitindo análise completa de receita, margem, lucro e comportamento de vendas.
 
 ---
