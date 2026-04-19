@@ -1,5 +1,4 @@
 # 📊 Dash Performance Comercial — Vendas de Livros
-
 Dashboard desenvolvido em **Power BI** com foco em performance comercial de uma rede de livraria,
 permitindo análise completa de receita, margem, lucro e comportamento de vendas.
 
@@ -29,6 +28,14 @@ permitindo análise completa de receita, margem, lucro e comportamento de vendas
 | `Performance Comercial — Vendas de Livros.pbix` | Arquivo principal do Dashboard em Power BI |
 | `FatVendasLivros.xlsx` | Base de dados de vendas |
 | `DimCalendario.xlsx` | Tabela dimensão de datas |
+
+---
+
+## 🌐 Acesse o Dashboard Online
+
+Clique no link abaixo para visualizar o dashboard publicado no Power BI:
+
+👉 **[Acessar Dashboard — Performance Comercial de Livros](https://app.powerbi.com/view?r=eyJrIjoiMTI2MGQ1YjItMDY3Yy00MDE3LWIwZDUtNDg3MjZlMjdhOWNhIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)**
 
 ---
 
